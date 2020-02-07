@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Reinforced-Kiln
+description: produced more kiln and reinforced with more lead and Titanium.
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      sand/2
+	  lead/2
+    ]
+  }
+}
+requirements: [
+  copper/100
+  titanium/50
+  lead/50
+  graphite/30
+]
+category: crafting
+outputItem: metaglass/2
+research: multi-smelter

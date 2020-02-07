@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: Oil Centrifuge
+description: like Coal Centrifuge, same requirements but works in reverse.
+liquidCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      coal/2
+    ]
+  }
+}
+requirements: [
+  titanium/20
+  lead/30
+  graphite/40
+]
+category: crafting
+outputLiquids: oil/1
+research: reinforc-kiln

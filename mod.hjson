@@ -1,0 +1,6 @@
+name: "x-vanilla-exp-mod"
+displayName: "[white]xVanilla [gold]Expansion" //what displays in the mod selection menu
+author: "[blue]xpossed-you"
+description: "this [gold]expansion mod []will add more []advanced version of [white]vanilla blocks.[]"
+version: "0.01"
+minGameVersion: "103.4"
