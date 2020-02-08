@@ -1,4 +1,4 @@
-![](https://github.com/xpossed-you/xvanilla/blob/master/githubsite/Untitled(1).png)
+![]()
 
 # xVanilla
 
