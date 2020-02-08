@@ -10,6 +10,7 @@ if you have encounter some bugs or maybe have suggestion, you can go to [Issues]
 
 
 ## Installation
+Clone xvanilla-master, the easiest way is **Download ZIP**
 type in Run or [win] + [r]:
   
 ```
