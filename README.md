@@ -16,6 +16,17 @@ type in Run or [win] + [r]:
 %Appdata%/mindustry
 ```
   copy or move *xvanilla-master.zip* to **mods** folder.
+  
+## Releases & Changelog
+
+- 0.01
+  - Added **Oil Centrifuge**
+  - Added **Reinforced Kiln**
+  - Added **Multi-Smelter**
+
+- 0.02
+  - coming soon 
+
 ## LICENSE 
 *Attribution 4.0 International*
 <details> 
