@@ -16,10 +16,11 @@ type in Run or [win] + [r]:
 %Appdata%/mindustry
 ```
   copy or move *xvanilla-master.zip* to **mods** folder.
+## LICENSE 
+*Attribution 4.0 International*
+<details> 
 
-<licenses>
-  Attribution 4.0 International
-
+  
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
