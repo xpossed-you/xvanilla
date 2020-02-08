@@ -2,7 +2,7 @@
 
 # Information
 
-xVanilla is a mod that adds upgraded version of vanilla blocks to your [Mindustry](mindustrygame.github.io).
+xVanilla is a mod that adds upgraded version of vanilla blocks to Mindustry.
 
 
 ## Suggestions and Bugs
