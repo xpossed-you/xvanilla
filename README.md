@@ -18,4 +18,4 @@ type in Run or [win] + [r]:
   copy or move *xvanilla-master.zip* to **mods** folder.
 
 ## License
-[CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/). to prevent some bad guys stealing and claimed our mods(image, etc).
+[CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/).
