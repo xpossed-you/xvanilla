@@ -25,7 +25,7 @@ type in Run or [win] + [r]:
   - Added **Multi-Smelter**
 
 - 0.02
-  - coming soon 
+  - Added **Override Mender 
 
 ## LICENSE 
 *Attribution 4.0 International*
