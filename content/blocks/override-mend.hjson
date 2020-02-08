@@ -1,0 +1,33 @@
+type: MendProjector
+name: Override Mender
+description: Most Advanced version of Mender, repair any blocks faster in longer range.
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 45
+reload: 300
+range: 120
+healPercent: 20
+health: 90
+updateEffect: smeltsmoke
+consumes: {
+  power: 3.5
+  items: {
+    items: [      
+	  phase-fabric/2
+	  ]
+    booster: true
+	optional: true
+  }
+}
+requirements: [
+  lead/100
+  titanium/40
+  silicon/50
+  graphite/15
+]
+category: effect
+outputItem: silicon/2
+research: repair-point
