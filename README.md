@@ -5,7 +5,7 @@
 xVanilla is a mod that adds upgraded version of vanilla blocks to Mindustry.
 
 
-## Suggestions and Bugs
+## Suggestions and Bugs [![Mindustry](https://img.shields.io/badge/goto-Issues-green.svg)](https://github.com/xpossed-you/xvanilla/issues/)
 if you have encounter some bugs or maybe have suggestion, you can go to [Issues](https://github.com/xpossed-you/xvanilla/issues).
 
 
