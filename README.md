@@ -1,6 +1,6 @@
-![](https://github.com/xpossed-you/xvanilla/blob/master/github/github%20header.png)![Mindustry](https://img.shields.io/badge/game-Mindustry-gold.svg)
+![](https://github.com/xpossed-you/xvanilla/blob/master/github/github%20header.png)
 
-# Information
+# Information[![Mindustry](https://img.shields.io/badge/game-Mindustry-gold.svg)](https://mindustrygame.github.io/)
 
 xVanilla is a mod that adds upgraded version of vanilla blocks to Mindustry.
 
