@@ -1,4 +1,4 @@
-![](https://github.com/xpossed-you/xvanilla/blob/master/github/github%20header.png)
+![](https://github.com/xpossed-you/xvanilla/blob/master/github/github%20header.png)![Mindustry](https://img.shields.io/badge/game-Mindustry-gold.svg)
 
 # Information
 
