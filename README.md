@@ -10,10 +10,22 @@ if you have encounter some bugs or maybe have suggestion, you can go to [Issues]
 
 
 ## Installation
-[![Mindustry](https://img.shields.io/badge/OS-Windows-blue.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows/) Type in Run or [WIN] + [R]:
+[![Mindustry](https://img.shields.io/badge/OS-Windows-blue.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows/)
   
 ```
 %Appdata%/mindustry
+```
+[
+![Mindustry](https://img.shields.io/badge/OS-Linux-yellow.svg)](https://en.wikipedia.org/wiki/Linux)
+  
+```
+~/.local/share/Mindustry
+```
+[
+![Mindustry](https://img.shields.io/badge/OS-Mac-green.svg)](https://en.wikipedia.org/wiki/MacOS/)
+  
+```
+~/.local/share/Mindustry
 ```
   copy or move *xvanilla-master.zip* to **mods** folder.
   
