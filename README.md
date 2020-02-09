@@ -10,7 +10,7 @@ if you have encounter some bugs or maybe have suggestion, you can go to [Issues]
 
 
 ## Installation
-type in Run or [win] + [r]:
+[![Mindustry](https://img.shields.io/badge/OS-Windows-blue.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows/) Type in Run or [WIN] + [R]:
   
 ```
 %Appdata%/mindustry
